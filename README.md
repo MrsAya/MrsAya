@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Radya Wiguna**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mrwiguna/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadrwiguna/)ku ya.
 
 ### Github Statistic
 <p align="left">
