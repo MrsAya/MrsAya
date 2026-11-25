@@ -26,8 +26,8 @@ Saya seorang Web Developer dan Android Developer yang bersemangat menciptakan pe
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,kotlin,androidstudio&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,kotlin,androidstudio&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, PHP, Kotlin, Android Studio" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cphp%2Ckotlin%2Candroidstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cphp%2Ckotlin%2Candroidstudio&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, PHP, Kotlin, Android Studio" />
   </picture>
 </p>
 
